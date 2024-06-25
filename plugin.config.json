@@ -1,0 +1,7 @@
+{
+  "name": "presence",
+  "intentsDependencies": [],
+  "commandsDir": null,
+  "componentsDir": null,
+  "eventsDir": "events"
+}
