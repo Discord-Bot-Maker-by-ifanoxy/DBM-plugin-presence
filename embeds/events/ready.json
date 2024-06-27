@@ -1,7 +1,7 @@
 {
   "presence": {
-    "title": "online",
+    "status": "online",
     "description": "Discord Bot Maker",
-    "color": 4
+    "type": 4
   }
 }

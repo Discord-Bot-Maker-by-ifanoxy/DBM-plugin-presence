@@ -7,10 +7,10 @@ export default {
     execute(client: DBMClient<true>)
     {
         client.user.setPresence({
-            status: embed.presence.title,
+            status: embed.presence.status,
             activities: [{
                 name: embed.presence.description,
-                type: embed.presence.color
+                type: embed.presence.type
             }]
         })
     }
